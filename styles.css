@@ -1,0 +1,38 @@
+
+  body {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-variation-settings: "wdth" 100;
+    background-color: #efebe7;
+  }
+  .main_page {
+    max-width: 600px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 20dvh 4dvw;
+  }
+  .photography_page {
+    padding: 5dvh 15dvw;
+  }
+  h1 {
+    font-weight:600;
+  }
+  h2,
+  h3 {
+    line-height: 1.2;
+  }
+  .nocolorbold {
+    color: #303030;
+    font-weight: 500;
+    text-underline-offset: 2px;
+  }
+  p {
+    margin-top:20px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    padding-bottom:40px;
+  }
